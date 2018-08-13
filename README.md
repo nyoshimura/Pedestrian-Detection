@@ -1,9 +1,11 @@
 # Pedestrian-Detection
 Run pedestrian detector based on python + opencv
 
-|Detector|INRIA|Daimler|
-|---|:---:|:---:|
-|Result|![](./img/inria.jpg)|![](./img/daimler.jpg) |
+#### INRIA vs Daimler (Detector)
+
+|INRIA|Daimler|
+|:---:|:---:|
+|![](./img/inria.jpg)|![](./img/daimler.jpg) |
 
 #### Files Description
 |Files|Description|
