@@ -20,3 +20,6 @@ Run pedestrian detector based on python + opencv
 * Add tracking module
 * Compare with Deep Learning Approach (e.g. SSD)
 * Post consideration as blog
+
+#### Reference
+* [Combining Two Images with OpenCV](https://stackoverflow.com/questions/7589012/combining-two-images-with-opencv)
