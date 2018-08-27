@@ -23,3 +23,4 @@ Run pedestrian detector based on python + opencv
 
 #### Reference
 * [Combining Two Images with OpenCV](https://stackoverflow.com/questions/7589012/combining-two-images-with-opencv)
+* [moviepyによる動画変換処理](https://qiita.com/kenmatsu4/items/8683dc42f19200e6c672)

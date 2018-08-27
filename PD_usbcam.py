@@ -14,7 +14,7 @@ def process_image(img):
     height, width = img.shape[:2] # obtain size info
     debug_space = cv2.resize(np.zeros((1, 1, 3), np.uint8), (width, height)) # create debug space
     font = cv2.FONT_HERSHEY_SIMPLEX
-    cv2.putText(debug_space, 'size: '+str(height)+'x'+str(width),(0, height//10), font, 0.8, (0,255,0),1) # print size on debug space
+    cv2.putText(debug_space, 'size: '+str(height)+'x'+str(width),(0, height//10), font, 0.8, (0,255,0),1) # debug
 
     # initialize pedestrian detector
     hog = cv2.HOGDescriptor() #derive HOG features
