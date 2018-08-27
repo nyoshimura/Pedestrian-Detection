@@ -10,13 +10,13 @@ Run pedestrian detector based on python + opencv
 #### Files Description
 |Files|Description|
 |---|---|
-|PD_2016.ipynb|Starting Point of Pedestrian Detection with explanations|
-|PD_2016.py|Starting Point of Pedestrian Detection|
+|PD_2016.ipynb|Starting notebook of Pedestrian Detection|
+|PD_2016.py|Starting code of Pedestrian Detection(test on image)|
 |HOGVisualization_2016.ipynb|Visualize HOG + NMS Test|
+|PD_movie.py|Apply Pedestrian Detection for movie|
+|PD_usbcam.py|Apply Pedestrian Detection for usbcam|
 
 #### TODO
-* Add pipeline for movie
-* Add pipeline for usbcam
 * Add tracking module
 * Compare with Deep Learning Approach (e.g. SSD)
 * Post consideration as blog
